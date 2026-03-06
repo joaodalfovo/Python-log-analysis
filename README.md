@@ -1,3 +1,18 @@
+## 🚀 Acesso ao Laboratório
+
+📂 **Repositório completo no GitHub**
+- Contém o código, logs e outputs utilizados no projeto.
+
+📓 **Abrir notebook no Google Colab**
+- Permite executar o código diretamente no navegador.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/joaodalfovo/Python-log-analysis/blob/2c05e695afb952a1682fda9daf9b4f005bc995d5/HomeLabLogPython.ipynb)
+
+📁 **Acessar pasta completa no Google Drive**
+- Contém o ambiente original do laboratório com os arquivos utilizados.
+
+🔗 (https://drive.google.com/drive/folders/154cj35EObw_UpY5gBqviLVq5ITLwvNf1?usp=drive_link)
+
 ## Home Lab – Análise de Logs de Segurança com Python
 
 Detecção de Brute Force SSH, Web Scanning (404) e Uso de Comandos Privilegiados
