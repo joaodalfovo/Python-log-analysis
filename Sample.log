@@ -1,0 +1,67 @@
+﻿2026-03-05 20:58:01 INFO sshd Failed password for invalid user admin from 191.10.20.30 port 50112
+2026-03-05 20:58:02 INFO sshd Failed password for root from 191.10.20.30 port 50115
+2026-03-05 20:58:04 INFO sshd Failed password for root from 191.10.20.30 port 50118
+2026-03-05 20:58:06 INFO sshd Failed password for user from 191.10.20.30 port 50120
+2026-03-05 20:58:08 INFO sshd Failed password for test from 191.10.20.30 port 50125
+2026-03-05 20:58:11 INFO sshd Failed password for guest from 191.10.20.30 port 50128
+
+
+2026-03-05 20:59:02 INFO sshd Failed password for root from 185.44.22.19 port 41233
+2026-03-05 20:59:05 INFO sshd Failed password for root from 185.44.22.19 port 41236
+2026-03-05 20:59:08 INFO sshd Failed password for root from 185.44.22.19 port 41239
+2026-03-05 20:59:10 INFO sshd Failed password for root from 185.44.22.19 port 41242
+
+
+2026-03-05 21:00:12 INFO sshd Accepted password for joao from 191.10.20.30 port 50140
+2026-03-05 21:00:15 WARN sudo user=joao command=/usr/bin/apt update
+2026-03-05 21:00:20 WARN sudo user=joao command=/usr/bin/apt upgrade
+
+
+2026-03-05 21:01:02 INFO nginx 404 GET /wp-login.php from 45.67.89.10
+2026-03-05 21:01:05 INFO nginx 404 GET /phpmyadmin from 45.67.89.10
+2026-03-05 21:01:07 INFO nginx 404 GET /.env from 45.67.89.10
+2026-03-05 21:01:09 INFO nginx 404 GET /admin from 45.67.89.10
+2026-03-05 21:01:12 INFO nginx 404 GET /backup.zip from 45.67.89.10
+
+
+2026-03-05 21:02:11 INFO nginx 200 GET /index.html from 177.55.201.18
+2026-03-05 21:02:14 INFO nginx 200 GET /products from 177.55.201.18
+2026-03-05 21:02:18 INFO nginx 200 GET /contact from 177.55.201.18
+
+
+2026-03-05 21:03:02 INFO sshd Failed password for invalid user oracle from 203.44.10.55 port 49822
+2026-03-05 21:03:04 INFO sshd Failed password for invalid user postgres from 203.44.10.55 port 49824
+2026-03-05 21:03:07 INFO sshd Failed password for invalid user admin from 203.44.10.55 port 49827
+2026-03-05 21:03:10 INFO sshd Failed password for invalid user ubuntu from 203.44.10.55 port 49830
+2026-03-05 21:03:13 INFO sshd Failed password for invalid user test from 203.44.10.55 port 49833
+2026-03-05 21:03:16 INFO sshd Failed password for invalid user pi from 203.44.10.55 port 49835
+
+
+2026-03-05 21:04:02 WARN sudo user=admin command=/bin/cat /etc/shadow
+2026-03-05 21:04:05 WARN sudo user=admin command=/usr/bin/nano /etc/passwd
+
+
+2026-03-05 21:05:01 INFO nginx 404 GET /wp-admin from 91.200.13.77
+2026-03-05 21:05:03 INFO nginx 404 GET /xmlrpc.php from 91.200.13.77
+2026-03-05 21:05:06 INFO nginx 404 GET /wp-login.php from 91.200.13.77
+2026-03-05 21:05:08 INFO nginx 404 GET /config.php from 91.200.13.77
+
+
+2026-03-05 21:06:01 INFO sshd Failed password for invalid user admin from 88.22.11.90 port 51220
+2026-03-05 21:06:03 INFO sshd Failed password for invalid user admin from 88.22.11.90 port 51225
+2026-03-05 21:06:06 INFO sshd Failed password for invalid user admin from 88.22.11.90 port 51228
+2026-03-05 21:06:09 INFO sshd Failed password for invalid user admin from 88.22.11.90 port 51232
+
+
+2026-03-05 21:07:02 INFO nginx 200 GET /home from 189.101.77.54
+2026-03-05 21:07:04 INFO nginx 200 GET /products from 189.101.77.54
+2026-03-05 21:07:08 INFO nginx 200 GET /cart from 189.101.77.54
+
+
+2026-03-05 21:08:01 INFO sshd Accepted password for dev from 177.55.201.18 port 60022
+2026-03-05 21:08:03 WARN sudo user=dev command=/usr/bin/systemctl restart nginx
+
+
+2026-03-05 21:09:11 INFO nginx 404 GET /admin/login from 45.67.89.10
+2026-03-05 21:09:13 INFO nginx 404 GET /db.sql from 45.67.89.10
+2026-03-05 21:09:16 INFO nginx 404 GET /backup.tar.gz from 45.67.89.10
